@@ -1,35 +1,28 @@
-- 👋 Hi, I’m @OhMyGrenxz CEO HEPPY CLOUD
+**🌟 HEPPY CLOUD | MINECRAFT HOSTING 🌟**
 
+Halo @everyone! Selamat datang di HeppyCloud, tempat di mana petualangan gaming tanpa batas dimulai! Kami hadir untuk memberikan pengalaman gaming terbaik bagi para penggemar game online di seluruh Indonesia.
 
-**HEPPY CLOUD | MINECRAFT HOSTING **
+**💻 Tentang Kami**
+> HeppyCloud berdiri dengan komitmen kuat untuk menyediakan solusi hosting berkualitas tinggi dengan harga yang terjangkau. Berbasis di Indonesia, kami menawarkan layanan hosting andal dan efisien untuk bisnis dan individu. Dengan fokus pada kepuasan pelanggan dan teknologi mutakhir, HeppyCloud siap menjadi pilihan utama untuk semua kebutuhan hosting Anda.
 
-Halo @everyone  | Punya Duid Yang Low Tetapi Ingin Punya Minecraft Hosting Yang Powerfull? Heppy Store Jawabannya! Dengan Harga Murah Kamu Sudah Mendapatkan Minecraft Hosting Dengan Spek Yang Powerfull !!
+**⚡ Budget Terbatas tapi Mau Hosting Minecraft yang Powerful?**
+> HeppyCloud adalah jawabannya! Dengan harga terjangkau, Anda bisa mendapatkan hosting Minecraft yang kuat dan stabil!
 
-**Hosting Produk**
-> Shared Hosting 10k/Gb
- (Berpotensi untuk down, Akan Di Up Secepatnya) AMD EPYC 7713
+**🖥️ Produk Hosting Kami**
 
-> Basic+ Hosting 15k/Gb
- (Anti Down) AMD EPYC 7R13
+> 🟢 Basic+ Hosting - Mulai dari 18K/GB
+> (Dijamin stabil dan anti down) menggunakan AMD EPYC 7282
 
-> Premium Hosting 20k/GB
- (Anti Down) AMD EPYC 7763
+> 🔵 Premium Ryzen - Mulai dari 25K/GB
+> (Kekuatan tanpa batas dan anti down) dengan AMD Ryzen 9 7900
 
-> Private Node Plus
-> Private Node AMD EPYC 
-> Private Node Ryzen 
-> Database
+> 🔒 Private Node Plus
+> 🔒 Private Node AMD EPYC
+> 🔒 Private Node Ryzen
+> 🔒 Database Hosting
 
-**Keuntungan Beli Server Hosting Di HeppyCloud**
-```
-- Auto Backup ( setiap hari )
-- Garansi selama masa aktif berlaku
-- Dapat Mengganti Egg
-- Mendapatkan Port Tambahan Gratis
-- Pastinya Kuat Dan Keren
-```
+**🔥 8.436+ Testimoni Puas | Terpercaya dan Aman 🔥**
 
-**TESTI 5000+ DI JAMIN AMAN**
-🌎Website :
- ♪ Beli Sekarang Di : https://store.heppyhost.my.id/
-♪  Discord : https://discord.gg/heppystore
+**🌐 Website:**
+> 🎮 Beli Sekarang: https://store.heppyhost.my.id/
+> 🎧 Gabung di Discord: https://discord.gg/heppystore
